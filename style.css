@@ -17,4 +17,10 @@
     border: 1px solid whitesmoke;
     background: lightseagreen;
     float: left;
+    font-size: 100px;
+    text-align: center;
+    line-height: 200px;
+    color: whitesmoke;
+    cursor: pointer;
+    user-select: none;
 }
